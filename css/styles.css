@@ -1,0 +1,117 @@
+.topImg, .me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.pa, h1, h4, .third, .headdown {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top, .bottom {
+  background-color: #A68DAD;
+  padding: 100px 0;
+  color: white;
+}
+
+.second, .third {
+  padding: 100px 0;
+  color: #A68DAD;
+}
+
+.navImage {
+  width: 10%;
+}
+
+.navbar-brand {
+  padding-left: 30px;
+}
+
+.mail, .download {
+  width: 30%;
+}
+
+nav {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.pfont {
+  text-align: left;
+}
+
+.develop, .left {
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+}
+
+.design, .right {
+  float: right;
+  width: 20%;
+  margin-left: 30px;
+}
+
+.skill-row, .project-row, .certificate-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #A68DAD;
+  padding: 35px 0 16px 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link, .nav-link {
+  color: #674188;
+  margin: 10px 20px;
+  text-decoration:none;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover {
+  color: white;
+}
+
+ .nav-link:hover {
+   color: #A68DAD;
+ }
+
+button {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 10%;
+  padding: 10px 0;
+  border: none;
+  background-color: #A68DAD;
+}
+
+.aboutsec {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 379.800px;
+  padding-right: 379.800px;
+  padding-bottom: 45px;
+}
